@@ -1,0 +1,10 @@
+,imi_vm20i,imi_vmx30ui,tmf_vf10
+"Sound0, USB microphone (s0.wav)",yes,yes,yes
+"Sound1, internal near spindle (s1.wav)",yes,no,no
+"Sound2, internal base column (s2.wav)",yes,yes,yes
+Accelerometers (acc.csv),yes,no,no
+Current transformer (ct.csv),no,no,yes
+Motor vibration columns in mtc.csv,yes,yes,no
+Motor displacement columns in mtc.csv,yes,no,no
+Motor temperature columns in mtc.csv,no,yes,no
+Power meter columns in mtc.csv,yes,yes,no

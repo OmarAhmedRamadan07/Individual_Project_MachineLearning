@@ -1,0 +1,21 @@
+meaning,imi_vm20i,imi_vmx30ui,tmf_vf10,in all three,to confirm
+time stamp,time,time,time,True,False
+availability,avail,avail,avail,True,False
+emergency stop,EStop_State,EStop_State,estop,True,False
+execution state,Execution,Execution,execution,True,False
+controller mode,"Controller_Mode, Machine_Mode","Controller_Mode, Machine_Mode",mode,True,True
+block number,Block_Number,Block_Number,block_num,True,False
+part count,Part_Count,Part_Count,part_count,True,False
+running program,Program_Name_Running,Program_Name_Running,program,True,False
+tool number,Current_Tool,Current_Tool,tool_num,True,False
+spindle speed,Spindle_Speed,Spindle_Speed,s_speed,True,False
+spindle load,S_Axis_Load,S_Axis_Load,s_load,True,False
+x position,X_Position,X_Position,"xpm, xpw",True,True
+y position,Y_Position,Y_Position,"ypm, ypw",True,True
+z position,Z_Position,Z_Position,"zpm, zpw",True,True
+asset change/removal,"dev_asset_chg, dev_asset_rem","dev_asset_chg, dev_asset_rem","vf10_50_asset_chg, vf10_50_asset_rem",True,False
+timers,"Machine_Time, Spindle_Time, Program_Runtime_Seconds","Machine_Time, Spindle_Time, Program_Runtime_Seconds","motion_time, last_cycle_time",True,True
+"feed rate, rapid speed","Feed_Rate, Rapid_Speed","Feed_Rate, Rapid_Speed",none,False,False
+overrides,"Feed_Override, Spindle_Override, Rapid_Override","Feed_Override, Spindle_Override, Rapid_Override",none,False,False
+"x, y, z axis load","X_Axis_Load, Y_Axis_Load, Z_Axis_Load","X_Axis_Load, Y_Axis_Load, Z_Axis_Load",none,False,False
+"a, c axis load and position",none,"A_Axis_Load, C_Axis_Load, A_Position, C_Position",none,False,False

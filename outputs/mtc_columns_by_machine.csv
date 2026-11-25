@@ -1,0 +1,130 @@
+machine,column,kind
+imi_vm20i,time,controller / machine state
+imi_vm20i,COR_Status,controller / machine state
+imi_vm20i,Controller_Mode,controller / machine state
+imi_vm20i,EStop_State,controller / machine state
+imi_vm20i,Machine_Mode,controller / machine state
+imi_vm20i,avail,controller / machine state
+imi_vm20i,dev_asset_chg,controller / machine state
+imi_vm20i,dev_asset_rem,controller / machine state
+imi_vm20i,Block_Number,controller / machine state
+imi_vm20i,Current_Tool,controller / machine state
+imi_vm20i,Execution,controller / machine state
+imi_vm20i,Part_Count,controller / machine state
+imi_vm20i,Program_Name_Editing,controller / machine state
+imi_vm20i,Program_Name_Running,controller / machine state
+imi_vm20i,Machine_Time,controller / machine state
+imi_vm20i,Spindle_Time,controller / machine state
+imi_vm20i,energy,external sensor
+imi_vm20i,watt,external sensor
+imi_vm20i,Feed_Override,controller / machine state
+imi_vm20i,Feed_Rate,controller / machine state
+imi_vm20i,Program_Runtime_Seconds,controller / machine state
+imi_vm20i,Rapid_Override,controller / machine state
+imi_vm20i,Rapid_Speed,controller / machine state
+imi_vm20i,S_Axis_Load,controller / machine state
+imi_vm20i,Spindle_Override,controller / machine state
+imi_vm20i,Spindle_Speed,controller / machine state
+imi_vm20i,smapeak,external sensor
+imi_vm20i,smarms,external sensor
+imi_vm20i,smcrest,external sensor
+imi_vm20i,smdisp,external sensor
+imi_vm20i,smvrms,external sensor
+imi_vm20i,X_Axis_Load,controller / machine state
+imi_vm20i,X_Position,controller / machine state
+imi_vm20i,xmapeak,external sensor
+imi_vm20i,xmarms,external sensor
+imi_vm20i,xmcrest,external sensor
+imi_vm20i,xmdisp,external sensor
+imi_vm20i,xmvrms,external sensor
+imi_vm20i,Y_Axis_Load,controller / machine state
+imi_vm20i,Y_Position,controller / machine state
+imi_vm20i,ymapeak,external sensor
+imi_vm20i,ymarms,external sensor
+imi_vm20i,ymcrest,external sensor
+imi_vm20i,ymdisp,external sensor
+imi_vm20i,ymvrms,external sensor
+imi_vm20i,Z_Axis_Load,controller / machine state
+imi_vm20i,Z_Position,controller / machine state
+imi_vm20i,zmapeak,external sensor
+imi_vm20i,zmarms,external sensor
+imi_vm20i,zmcrest,external sensor
+imi_vm20i,zmdisp,external sensor
+imi_vm20i,zmvrms,external sensor
+imi_vmx30ui,time,controller / machine state
+imi_vmx30ui,COR_Status,controller / machine state
+imi_vmx30ui,Controller_Mode,controller / machine state
+imi_vmx30ui,EStop_State,controller / machine state
+imi_vmx30ui,Machine_Mode,controller / machine state
+imi_vmx30ui,avail,controller / machine state
+imi_vmx30ui,dev_asset_chg,controller / machine state
+imi_vmx30ui,dev_asset_rem,controller / machine state
+imi_vmx30ui,Block_Number,controller / machine state
+imi_vmx30ui,Current_Tool,controller / machine state
+imi_vmx30ui,Execution,controller / machine state
+imi_vmx30ui,Part_Count,controller / machine state
+imi_vmx30ui,Program_Name_Editing,controller / machine state
+imi_vmx30ui,Program_Name_Running,controller / machine state
+imi_vmx30ui,A_Axis_Load,controller / machine state
+imi_vmx30ui,A_Position,controller / machine state
+imi_vmx30ui,C_Axis_Load,controller / machine state
+imi_vmx30ui,C_Position,controller / machine state
+imi_vmx30ui,Machine_Time,controller / machine state
+imi_vmx30ui,Spindle_Time,controller / machine state
+imi_vmx30ui,energy,external sensor
+imi_vmx30ui,watt,external sensor
+imi_vmx30ui,Feed_Override,controller / machine state
+imi_vmx30ui,Feed_Rate,controller / machine state
+imi_vmx30ui,Program_Runtime_Seconds,controller / machine state
+imi_vmx30ui,Rapid_Override,controller / machine state
+imi_vmx30ui,Rapid_Speed,controller / machine state
+imi_vmx30ui,S_Axis_Load,controller / machine state
+imi_vmx30ui,Spindle_Override,controller / machine state
+imi_vmx30ui,Spindle_Speed,controller / machine state
+imi_vmx30ui,smapeak,external sensor
+imi_vmx30ui,smarms,external sensor
+imi_vmx30ui,smcrest,external sensor
+imi_vmx30ui,smtemp,external sensor
+imi_vmx30ui,smvrms,external sensor
+imi_vmx30ui,X_Axis_Load,controller / machine state
+imi_vmx30ui,X_Position,controller / machine state
+imi_vmx30ui,xmapeak,external sensor
+imi_vmx30ui,xmarms,external sensor
+imi_vmx30ui,xmcrest,external sensor
+imi_vmx30ui,xmtemp,external sensor
+imi_vmx30ui,xmvrms,external sensor
+imi_vmx30ui,Y_Axis_Load,controller / machine state
+imi_vmx30ui,Y_Position,controller / machine state
+imi_vmx30ui,ymapeak,external sensor
+imi_vmx30ui,ymarms,external sensor
+imi_vmx30ui,ymcrest,external sensor
+imi_vmx30ui,ymtemp,external sensor
+imi_vmx30ui,ymvrms,external sensor
+imi_vmx30ui,Z_Axis_Load,controller / machine state
+imi_vmx30ui,Z_Position,controller / machine state
+imi_vmx30ui,zmapeak,external sensor
+imi_vmx30ui,zmarms,external sensor
+imi_vmx30ui,zmcrest,external sensor
+imi_vmx30ui,zmtemp,external sensor
+imi_vmx30ui,zmvrms,external sensor
+tmf_vf10,time,controller / machine state
+tmf_vf10,avail,controller / machine state
+tmf_vf10,block_num,controller / machine state
+tmf_vf10,estop,controller / machine state
+tmf_vf10,execution,controller / machine state
+tmf_vf10,mode,controller / machine state
+tmf_vf10,part_count,controller / machine state
+tmf_vf10,program,controller / machine state
+tmf_vf10,tool_num,controller / machine state
+tmf_vf10,vf10_50_asset_chg,controller / machine state
+tmf_vf10,vf10_50_asset_rem,controller / machine state
+tmf_vf10,last_cycle_time,controller / machine state
+tmf_vf10,motion_time,controller / machine state
+tmf_vf10,s_load,controller / machine state
+tmf_vf10,s_speed,controller / machine state
+tmf_vf10,xpm,controller / machine state
+tmf_vf10,xpw,controller / machine state
+tmf_vf10,ypm,controller / machine state
+tmf_vf10,ypw,controller / machine state
+tmf_vf10,zpm,controller / machine state
+tmf_vf10,zpw,controller / machine state
